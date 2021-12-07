@@ -1,17 +1,17 @@
 const CONFIG = {
     titleWeb: "helu babe",
-    introTitle: 'Trần Nam Trường',
-    introDesc: `em có điều muốn nói với anh, anh sẵn sàng chưa`,
+    introTitle: 'bạn bên đó',
+    introDesc: `mình có điều muốn hỏi, bạn sẵn sàng chưa`,
     btnIntro: '^^sẵn sàng^^',
-    title: 'anh có yêu em không 🥰',
-    desc: 'nếu anh không trả lời mà thoát ra là đồng ý làm chồng em rồi ',
+    title: 'bạn có yêu mình không 🥰',
+    desc: 'nếu bạn không trả lời mà thoát ra là đồng ý làm chồng mình rồi ',
     btnYes: 'yêu lắm<33',
     btnNo: 'Không nha :3',
-    question: 'hãy cho em biết tại sao anh yêu vậy <3',
+    question: 'hãy cho mình biết tại sao bạn yêu mình vậy <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'vì em siu dễ thương và đáng yêu vô cùng<33333333',
-    mess: 'em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
-    messDesc: 'chần chờ gì nữa vào messenger nhắn tin nói yêu em đi nào.',
+    reply: 'vì bạn siu dễ thương và đáng yêu vô cùng<33333333',
+    mess: 'mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    messDesc: 'chần chờ gì nữa vào messenger nhắn tin nói yêu mình đi nào.',
     btnAccept: 'vâng ạ <3',
-    messLink: 'https://www.facebook.com/100056538584788/' 
+    messLink: https://www.facebook.com/100016136376718/ 
 }
